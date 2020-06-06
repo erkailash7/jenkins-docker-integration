@@ -8,6 +8,7 @@ class JenkinsDockerIntegrationApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("HIIIIIIIII");
 	}
 
 }
