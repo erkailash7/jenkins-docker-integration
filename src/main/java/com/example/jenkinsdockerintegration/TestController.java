@@ -8,7 +8,7 @@ public class TestController {
 
     @GetMapping("/message")
     public String getMessage(){
-        System.out.println("enkins-docker-integration-message SOP");
+        System.out.println("enkins-docker-integration-message SOP....");
         return "jenkins-docker-integration-message";
 
     }
